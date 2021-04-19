@@ -1,7 +1,8 @@
-package ru.nsu.fit.grigor.employeeapp
+package ru.nsu.fit.grigor.employeeapp.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import ru.nsu.fit.grigor.employeeapp.R
 
 class MainActivity : AppCompatActivity() {
 

@@ -1,3 +1,6 @@
 <resources>
-	<string name="app_name">EmployeeApp</string>
+    <string name="app_name">EmployeeApp</string>
+    <string name="retry_label">Retry</string>
+    <string name="error_no_internet">Интернет пропал?</string>
+    <string name="error_unknown">Неизвестная ошибка</string>
 </resources>
