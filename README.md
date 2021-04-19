@@ -1,4 +1,6 @@
 # EmployeeApp
+Build:
+https://github.com/GrigorAmBC/EmployeeApp/blob/develop/app-debug.apk
 Описание
 1 активити и много фрагментов
 Функциональные требования.
@@ -17,6 +19,3 @@ http://gitlab.65apps.com/65gb/static/raw/master/testTask.json
 В случае отсутствия даты, показывать прочерк ««
 Минимальная версия android: 4.0
 Разрешается использовать любые сторонние библиотеки.
-
-Build:
-https://github.com/GrigorAmBC/EmployeeApp/blob/develop/app-debug.apk
