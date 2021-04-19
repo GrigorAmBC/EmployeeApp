@@ -18,5 +18,5 @@ http://gitlab.65apps.com/65gb/static/raw/master/testTask.json
 Минимальная версия android: 4.0
 Разрешается использовать любые сторонние библиотеки.
 
-Реализация:
-Загрузка
+Build:
+https://github.com/GrigorAmBC/EmployeeApp/blob/develop/app-debug.apk
