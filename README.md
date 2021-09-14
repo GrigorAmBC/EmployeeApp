@@ -1,6 +1,7 @@
 # EmployeeApp
-Build:  
-https://github.com/GrigorAmBC/EmployeeApp/blob/develop/app-debug.apk  
+## Видео работы
+https://github.com/GrigorAmBC/EmployeeApp/blob/develop/video.mp4
+
 Описание
 1 активити и много фрагментов  
 Функциональные требования.  
