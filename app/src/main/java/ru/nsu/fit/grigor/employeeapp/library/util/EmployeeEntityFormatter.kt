@@ -8,12 +8,12 @@ fun EmployeeEntity.getAge(): String =
     if (birthDate == null || birthDate.toString().isBlank()) {
         "-"
     } else {
-        val dob = Calendar.getInstance().apply { time = birthDate }
+        val dateOfBirth = Calendar.getInstance().apply { time = birthDate }
         val today = Calendar.getInstance()
 
-        var age = today[Calendar.YEAR] - dob[Calendar.YEAR]
+        var age = today[Calendar.YEAR] - dateOfBirth[Calendar.YEAR]
 
-        if (today[Calendar.DAY_OF_YEAR] < dob[Calendar.DAY_OF_YEAR]) {
+        if (today[Calendar.DAY_OF_YEAR] < dateOfBirth[Calendar.DAY_OF_YEAR]) {
             age--
         }
 
